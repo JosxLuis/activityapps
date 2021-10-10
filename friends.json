@@ -1,28 +1,3 @@
-{
-  "friends": [
-    {
-      "name": "Jose Luis",
-      "hobby": "Jugar videojuegos",
-      "age": 24,
-      "phone": 96100000000,
-      "address": "luis@tec.mx"
-    },
-    {
-      "name": "Raul Dias",
-      "age": 25,
-      "phone": 96100000000,
-      "address": "raul@tec.mx"
-    },
-    {
-      "name": "Rahul roy",
-      "age": 20,
-      "phone": 96100000000,
-      "address": "rahul@tec.mx"
-    }
-  ]
-}
-
-
 [
   {
       "name": "Jose Luis",
