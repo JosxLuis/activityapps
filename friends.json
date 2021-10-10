@@ -1,0 +1,16 @@
+{
+	"friends": [
+		{
+			"name": "Jose Luis",
+			"hobby": "Jugar videojuegos"
+		},
+		{
+			"name": "Raul Dias",
+			"age": "Jugar futbol"
+		},
+		{
+			"name": "Rahul roy",
+			"age": "Tocar guitarra"
+		}
+	]
+}
