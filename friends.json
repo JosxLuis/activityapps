@@ -1,27 +1,22 @@
 {
-    "data": [
-        {
-            "id": "1",
-            "employee": {
-                "name": "Tiger Nixon",
-                "salary": {
-                    "usd": 320800,
-                    "eur": 273545
-                },
-                "age": "61"
-            }
-        },
-        {
-            "id": "2",
-            "employee": {
-                "name": "Garrett Winters",
-                "salary": {
-                    "usd": 170750,
-                    "eur": 145598
-                },
-                "age": "63"
-            }
-        },
-        // ...
-    ]
+	"friends": [{
+			"name": "Jose Luis",
+			"hobby": "Jugar videojuegos",
+			"age": 24,
+			"phone": 96100000000,
+			"address": "luis@tec.mx"
+		},
+		{
+			"name": "Raul Dias",
+			"age": 25,
+			"phone": 96100000000,
+			"address": "raul@tec.mx"
+		},
+		{
+			"name": "Rahul roy",
+			"age": 20,
+			"phone": 96100000000,
+			"address": "rahul@tec.mx"
+		}
+	]
 }
