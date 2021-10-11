@@ -8,12 +8,14 @@
   },
   {
     "name": "Raul Dias",
+    "hobby": "Jugar basket",
     "age": 25,
     "phone": 96100000000,
     "address": "raul@tec.mx"
   },
   {
     "name": "Rahul roy",
+    "hobby": "Tocar guitarra",
     "age": 20,
     "phone": 96100000000,
     "address": "rahul@tec.mx"
